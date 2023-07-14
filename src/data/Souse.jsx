@@ -1,0 +1,78 @@
+export const souse =[
+    {
+        id: "sauce-1",
+        category: "Закуски",
+        filter: "New",
+        image: "/zakuski1.svg",
+        name: "Филадельфия кранч",
+        description:
+          "Семга, рис, сыр креметто, соус унаги, креветка, авокадо, чип...",
+        price: "475 ₽",
+      },
+      {
+        id: "sauce-2",
+        category: "Закуски",
+        filter: "Xit",
+        image: "/zakuski2.svg",
+        name: "Филадельфия крем-брюле",
+        description:
+          "Сливочный сыр, семга татаки с тростниковым сахаром, соус у...",
+        price: "395 ₽",
+      },
+      {
+        id: "sauce-3",
+        category: "Закуски",
+        filter: "",
+        image: "/zakuski3.svg",
+        name: "Супер Филадельфия",
+        description: "Действительно много семги, сливочный сыр, огурец, рис, н...",
+        price: "425 ₽",
+      },
+      {
+        id: "sauce-4",
+        category: "Закуски",
+        filter: "",
+        image: "/zakuski4.svg",
+        name: "Тигр мама",
+        description: "Тигровая креветка, огурец, авокадо, соус Айоли, рис, ик...",
+        price: "525 ₽",
+      },
+      {
+        id: "sauce-5",
+        category: "Закуски",
+        filter: "",
+        image: "/zakuski2.svg",
+        name: "Тигр мама",
+        description: "Тигровая креветка, огурец, авокадо, соус Айоли, рис, ик...",
+        price: "525 ₽",
+      },
+      {
+        id: "sauce-6",
+        category: "Закуски",
+        filter: "",
+        image: "/zakuski4.svg",
+        name: "Супер Филадельфия",
+        description: "Действительно много семги, сливочный сыр, огурец, рис, н...",
+        price: "425 ₽",
+      },
+      {
+        id: "sauce-7",
+        category: "Закуски",
+        filter: "",
+        image: "/zakuski1.svg",
+        name: "Филадельфия крем-брюле",
+        description:
+          "Сливочный сыр, семга татаки с тростниковым сахаром, соус у...",
+        price: "395 ₽",
+      },
+      {
+        id: "sauce-8",
+        category: "Закуски",
+        filter: "",
+        image: "/zakuski3.svg",
+        name: "Филадельфия кранч",
+        description:
+          "Семга, рис, сыр креметто, соус унаги, креветка, авокадо, чип...",
+        price: "475 ₽",
+      },
+]

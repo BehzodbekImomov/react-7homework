@@ -1,0 +1,53 @@
+.dostavki-card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1290px;
+height: 80px;
+flex-shrink: 0;
+border-radius: 8px;
+border: 1px solid var(--line-gray, #F0F0F0);
+background: var(--white, #FFF);
+margin: 0 auto;
+h2{
+    color: var(--black, #191919);
+
+/* Desktop/Big text */
+font-family: "Inter";
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 133.333% */
+padding-left: 32px;
+}
+input{
+    color: var(--black, #191919);
+
+/* Desktop/Big text */
+font-family: "Inter";
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 133.333% */
+padding: 13px 400px 13px 40px;
+margin-left: 32px;
+margin-right: 20px;
+border-radius: 6px;
+border: 1px solid var(--line-gray, #F0F0F0);
+background: #FFF;
+}
+button{
+    color: #FFF;
+
+
+font-family: "Inter";
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 22px; 
+border-radius: 6px;
+background: var(--primary, #FF7010);
+padding: 13px 32px;
+margin-right: 32px;
+}
+}
